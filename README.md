@@ -3,7 +3,8 @@
 ### Dear Nico,
 I  have _finally_ begun the task of learning something. Markdown is pretty neat because I can do all these **cool** things.
 
-Here is a pic of Cosmo ![Cosmo](https://imgur.com/m9H0Jt0.png)  
+Here is a pic of Cosmo ![Cosmo](https://imgur.com/m9H0Jt0.jpg)  
+
 Oh and you should follow me on [GitHub](https://github.com/logiew)
 
 As I am writing this I got a message from you that says:
@@ -18,3 +19,5 @@ BTW you should do some stuff tomorrow like
 Lastly, thanks for the [song][a bop] recommendation
 
 [a bop]: https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9?si=r_FnAqAxTf2QLNZXSH4lJw
+
+That is all. Bye!!
